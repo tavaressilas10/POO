@@ -1,0 +1,10 @@
+atributos => identificações
+metodos => hiatoria de como faz o bolo => caracteristicas para fazer tal ato
+npm i -g typescript
+npm i -g ts-node typescript '@types/node'
+npm install  -g ts-node typescript '@types/node'
+
+fora do vs colocar o powershell com adm e add o codigo abeixo e colocar "A"
+Set-ExecutionPolicy Unrestricted para não precisar traduzir para o javascript usando typescript no powershell
+
+polimorfismo é mudar o metodo para se adaptar a instacia
